@@ -1,0 +1,1 @@
+# Diagnostico-de-Enfermedades-con-Prolog
